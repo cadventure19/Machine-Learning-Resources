@@ -1,0 +1,24 @@
+Regularisation
+https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261
+
+Regression models
+https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
+
+Spam detection
+https://towardsdatascience.com/spam-detection-with-logistic-regression-23e3709e522
+
+Support Vector Machine
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+
+Back propagation
+https://towardsdatascience.com/how-does-back-propagation-in-artificial-neural-networks-work-c7cad873ea7
+
+autoencoders
+https://towardsdatascience.com/autoencoder-for-denoising-images-7d63a0831bfd
+
+optimisation
+https://towardsdatascience.com/demystifying-optimizations-for-machine-learning-c6c6405d3eea
+
+loss function
+https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23
+
